@@ -6,9 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/Hasmolam">
-    <img src="https://img.shields.io/github/followers/Hasmolam?label=Takipçiler&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Hasmolam">
     <img src="https://komarev.com/ghpvc/?username=Hasmolam&color=blue&style=flat-square&label=Profil+Görüntülenme" alt="Profile Views" />
   </a>
 </p>
