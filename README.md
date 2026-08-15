@@ -1,112 +1,110 @@
-<h1 align="center">👋 Merhaba, Ben Hasan Hüseyin Yolcu</h1>
+<h1 align="center">Hasan Hüseyin Yolcu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Yazılım+Geliştirici;Problem+Çözücü;Backend+Developer" alt="Typing SVG" />
+  <strong>Full-stack geliştirici</strong> · TypeScript &amp; React · Python (FastAPI) · PHP (Laravel)<br>
+  <sub><strong>Full-stack developer</strong> — building web and mobile products end to end</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Hasmolam">
-    <img src="https://komarev.com/ghpvc/?username=Hasmolam&color=blue&style=flat-square&label=Profil+Görüntülenme" alt="Profile Views" />
-  </a>
-</p>
-
----
-
-## 🚀 Hakkımda
-
-Yazılım geliştirme tutkusuyla projeler üreten, sürekli öğrenmeye ve kendini geliştirmeye odaklı bir geliştiriciyim. Temiz kod yazmayı, en iyi pratikleri uygulamayı ve yenilikçi çözümler üretmeyi seviyorum.
-
-- 🔭 Şu anda ilgi çekici projeler üzerinde çalışıyorum
-- 🌱 Sürekli olarak yeni teknolojiler öğreniyorum
-- 💡 İnovasyon ve problem çözme konusunda tutkuluyum
-- 🤝 Açık kaynak projelere katkıda bulunmayı seviyorum
-- 📫 Benimle iletişime geçmek için: [GitHub](https://github.com/Hasmolam)
-
----
-
-## 🛠️ Teknolojiler & Araçlar
-
-<p align="center">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BootStrap" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
----
-
-## 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasmolam&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasmolam&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasmolam&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasmolam&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🏆 GitHub Başarılarım
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hasmolam&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-## 💼 Öne Çıkan Projeler
-
-<p align="center">
-  <a href="https://github.com/Hasmolam?tab=repositories">
-    <img src="https://img.shields.io/badge/Tüm_Projelerimi_Keşfedin-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Projects" />
-  </a>
-</p>
-
----
-
-## 📫 İletişim
-
-<p align="center">
-  <a href="https://github.com/Hasmolam">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:hasanhuseyinyolcu25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://hasanhuseyinyolcu.me">
+    <img src="https://img.shields.io/badge/Portfolyo-hasanhuseyinyolcu.me-2b6cb0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolyo" />
   </a>
   <a href="https://www.linkedin.com/in/hasan-huseyin-yolcu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/HasanHusYolcu">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  <a href="mailto:hasanhuseyinyolcu25@gmail.com">
+    <img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta" />
   </a>
-  <a href="https://www.instagram.com/yolcu_hasan25/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="X" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Yeni%20f%C4%B1rsatlara%20a%C3%A7%C4%B1%C4%9F%C4%B1m-Open%20to%20opportunities-16a34a?style=flat-square" alt="Open to opportunities" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</p>
+## Hakkımda · About
+
+**TR** — Uçtan uca ürün geliştirmeyi seven bir full-stack geliştiriciyim. Ön yüzde TypeScript ve React/React Native, arka planda Python (FastAPI, Flask) ve PHP (Laravel) ile çalışıyorum. Projelerimin çoğu gerçek bir ihtiyaçtan doğdu: afet anında yardım eşleştirme, dil öğrenme, öğrenme takibi. Kimlik doğrulama, veritabanı tasarımı ve Docker ile dağıtım gibi işin görünmeyen kısımlarını da kendim kuruyorum.
+
+**EN** — Full-stack developer who enjoys shipping products end to end. TypeScript and React/React Native on the front, Python (FastAPI, Flask) and PHP (Laravel) on the back. Most of my projects started from a real need — disaster-relief matching, language learning, study tracking — and I handle the unglamorous parts too: auth, database design, and Docker deployment.
+
+📍 Ankara, Türkiye · 🎓 Patika.dev &amp; BTK Akademi · 💬 Türkçe / English
+
+---
+
+## Teknolojiler · Tech Stack
+
+**Diller · Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Move](https://img.shields.io/badge/Move-4DA2FF?style=flat-square&logo=sui&logoColor=white)
+
+**Ön Yüz · Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Arka Uç · Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+**Veritabanı &amp; Altyapı · Database &amp; Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Öne Çıkan Projeler · Featured Projects
+
+### 🚨 [afetar](https://github.com/Hasmolam/afetar) · [cansuyu](https://github.com/Hasmolam/cansuyu)
+Afet anında yardıma ihtiyacı olan kişilerle gönüllüleri eşleştiren platformlar. `cansuyu` coğrafi konum tabanlı eşleştirme yapar.
+<br><sub>Disaster-relief platforms matching people in need with volunteers, including geolocation-based matching.</sub>
+<br>`Python` `JavaScript` `Geolocation`
+
+### 📱 [English-Quiz-App](https://github.com/Hasmolam/English-Quiz-App)
+Oyunlaştırma öğeleri içeren full-stack İngilizce kelime öğrenme uygulaması. React Native (Expo) istemci, FastAPI servis katmanı, PostgreSQL, Clerk ile kimlik doğrulama ve Docker ile dağıtım.
+<br><sub>Gamified vocabulary-learning app — React Native client, FastAPI backend, PostgreSQL, Clerk auth, Dockerized.</sub>
+<br>`React Native` `Expo` `FastAPI` `PostgreSQL` `Docker`
+
+### 🧠 [rl-turkce-notlar](https://github.com/Hasmolam/rl-turkce-notlar) · [site →](https://hasmolam.github.io/rl-turkce-notlar/)
+Pekiştirmeli öğrenme üzerine 20 bölümlük özgün Türkçe çalışma notları ve bunlar için yazdığım mobil uyumlu web okuyucu. KaTeX ile formül gösterimi, iki dilli terimler sözlüğü, 4 tema.
+<br><sub>20 chapters of original Turkish study notes on reinforcement learning, with a custom mobile-friendly reader.</sub>
+<br>`Python` `JavaScript` `KaTeX` `GitHub Pages`
+
+### ⚙️ [FastAPI-TaskManager-WebAPI](https://github.com/Hasmolam/FastAPI-TaskManager-WebAPI) · [Flask-Task-Manager-API](https://github.com/Hasmolam/Flask-Task-Manager-API)
+Aynı problemi iki farklı Python çatısıyla çözen REST API'ler — JWT/OAuth2 kimlik doğrulama, tam CRUD, filtreleme ve Docker Compose kurulumu.
+<br><sub>The same problem solved with two Python frameworks — JWT/OAuth2 auth, full CRUD, filtering, Docker Compose.</sub>
+<br>`FastAPI` `Flask` `JWT` `Docker`
+
+### 📊 [Learn-Tracker](https://github.com/Hasmolam/Learn-Tracker)
+İlerlemeyi GitHub ile senkronize eden ve kurs hakimiyetini görselleştiren otomatik öğrenme portföyü takipçisi.
+<br><sub>Automated learning-portfolio tracker that syncs progress with GitHub and visualizes course mastery.</sub>
+<br>`TypeScript` `React` `GitHub API`
+
+---
+
+## İletişim · Contact
+
+İş birliği, iş fırsatı veya sadece sohbet için çekinmeden yazabilirsiniz.
+<sub>Feel free to reach out about collaborations, roles, or just to chat.</sub>
 
 <p align="center">
-  <i>⭐ Projelerimden beğendiklerinizi yıldızlamayı unutmayın!</i>
+  <a href="https://hasanhuseyinyolcu.me"><img src="https://img.shields.io/badge/Web-hasanhuseyinyolcu.me-2b6cb0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web" /></a>
+  <a href="https://www.linkedin.com/in/hasan-huseyin-yolcu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hasanhuseyinyolcu25@gmail.com"><img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta" /></a>
+  <a href="https://x.com/HasanHusYolcu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
