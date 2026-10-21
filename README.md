@@ -90,7 +90,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🍷 [hayyammeyhanesi.com](https://hayyammeyhanesi.com/)
+### 🍷 [hayyammeyhanesi.com.tr](https://hayyammeyhanesi.com.tr/)
 
 **Hayyam Meyhanesi** için içerik yönetimli kurumsal site. Menü, galeri ve içerikler Sanity CMS üzerinden yönetiliyor; arayüzde Framer Motion ile hareket tasarımı kullanıldı.
 
